@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|c:\\users\\administrator\\desktop\\solarsystem\\solarsystem\\testconsoleapp\\test-taste-console-application\\domain\\services\\screenoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|solutionrelative:solarsystem\\testconsoleapp\\test-taste-console-application\\domain\\services\\screenoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|c:\\users\\administrator\\desktop\\solarsystem\\solarsystem\\testconsoleapp\\test-taste-console-application\\domain\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|solutionrelative:solarsystem\\testconsoleapp\\test-taste-console-application\\domain\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|c:\\users\\administrator\\desktop\\solarsystem\\solarsystem\\testconsoleapp\\test-taste-console-application\\domain\\objects\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|solutionrelative:solarsystem\\testconsoleapp\\test-taste-console-application\\domain\\objects\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|c:\\users\\administrator\\desktop\\solarsystem\\solarsystem\\testconsoleapp\\test-taste-console-application\\constants\\outputstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|solutionrelative:solarsystem\\testconsoleapp\\test-taste-console-application\\constants\\outputstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|c:\\users\\administrator\\desktop\\solarsystem\\solarsystem\\testconsoleapp\\test-taste-console-application\\domain\\datatransferobjects\\moondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7DCE95-3CD0-403E-A5E4-834DEC7C4471}|SolarSystem\\SolarSystem.csproj|solutionrelative:solarsystem\\testconsoleapp\\test-taste-console-application\\domain\\datatransferobjects\\moondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutputString.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Constants\\OutputString.cs",
+              "RelativeDocumentMoniker": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Constants\\OutputString.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Constants\\OutputString.cs",
+              "RelativeToolTip": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Constants\\OutputString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAEwBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:26:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "RelativeDocumentMoniker": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "RelativeToolTip": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA6wB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:22:05.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScreenOutputService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Services\\ScreenOutputService.cs",
+              "RelativeDocumentMoniker": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Services\\ScreenOutputService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Services\\ScreenOutputService.cs",
+              "RelativeToolTip": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Services\\ScreenOutputService.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAgwMsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:21:12.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanetService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Services\\PlanetService.cs",
+              "RelativeDocumentMoniker": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Services\\PlanetService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Services\\PlanetService.cs",
+              "RelativeToolTip": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Services\\PlanetService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvxkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:21:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Objects\\Planet.cs",
+              "RelativeDocumentMoniker": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Objects\\Planet.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SolarSystem\\SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Objects\\Planet.cs",
+              "RelativeToolTip": "SolarSystem\\TestConsoleApp\\Test-Taste-Console-Application\\Domain\\Objects\\Planet.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:18:58.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
